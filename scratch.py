@@ -7,5 +7,5 @@ while i>=1:
         print('rockz ',end="")
         j=j-1
 
-    i = i-2
+    i = i-6
     print()
